@@ -159,7 +159,7 @@ IPL-Data-Analysis-and-Dashboard/
 
 ##  Author
 
-**Paras Kanani**
+**Mehul Gajera**
 
 Aspiring Data Analyst | Python | Power BI | Data Visualization
 
